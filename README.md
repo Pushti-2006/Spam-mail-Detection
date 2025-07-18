@@ -12,7 +12,7 @@ This project is a Machine Learning model that classifies emails as spam or not s
 - `spam_mail_detection.ipynb` – Main notebook with model training and evaluation
 
 ## 📊 Accuracy
-Achieved an accuracy of XX% on the test set.
+Achieved an accuracy of 96.68% on the test set.
 
 ## 📌 How to Use
 Open the notebook in Google Colab and run all cells. Modify the input email in the test cell.
